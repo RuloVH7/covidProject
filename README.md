@@ -1,5 +1,5 @@
 # Welcome to the Spotify Project! 👋
-![microsoftsqlserver](https://img.shields.io/badge/microsoft_sql_server-#CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![microsoft_sql_server](https://img.shields.io/badge/microsoft_sql_server-#CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
