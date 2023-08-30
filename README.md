@@ -7,7 +7,7 @@ Through carefully curated SQL queries and visualization, we delve into vital pan
 
 📝 Open the .sql file to explore the querying proccess.
 
-📝 Open the .sql file to explore the dataset.
+📚 Open the .rar file to explore the dataset files.
 
 🔗 Open the following link to open the dashboard: https://public.tableau.com/app/profile/raul.reyna
 
