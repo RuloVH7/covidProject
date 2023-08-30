@@ -1,34 +1,31 @@
-# Welcome to the Spotify Project! 👋
+# Welcome to the Covid Project! 👋
 ![microsoft_sql_server](https://img.shields.io/badge/microsoft_sql_server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![power_bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
+![microsoft_excel](https://img.shields.io/badge/microsoft_excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![tableau](https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
+Through carefully curated SQL queries and visualization, we delve into vital pandemic metrics: total cases, unfortunate casualties, and the ray of hope brought by vaccination efforts. Navigate the evolving landscape of a historic moment in time.
 
+📝 Open the .sql file to explore the querying proccess.
 
-Analyzing song attributes provides a structured way to quantify and understand the various dimensions of music, enabling a wide range of applications across entertainment, psychology, research, and more. 
-Immerse yourself in the world of sound, connecting with favorite songs on a deeper, more meaningful level.
+📝 Open the .sql file to explore the dataset.
 
-📝 Open the .ipynb file to explore the process.
-
-📝 Open the .pbix file to explore the dashboard.
+🔗 Open the following link to open the dashboard: https://public.tableau.com/app/profile/raul.reyna
 
 
 
 ## 📉 Dataset
 
-This dataset comprises details on various attributes of a song, such as time streamed, track name, energy, loudness, and much more.
+This dataset comprises details on various attributes covid situation globally. Data was obtained from https://ourworldindata.org/covid-deaths
 
 
 ## 📚 Documentation
 
-[Panda's User Guide](https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html#user-guide)
+[Microsoft SQL User Guide](https://learn.microsoft.com/en-us/sql/?view=sql-server-ver16)
 
-[Python User Guide](https://www.python.org/doc/)
+[Microsoft Excel User Guide](https://support.microsoft.com/en-us/excel)
 
 [Seaborn User Guide](https://seaborn.pydata.org/tutorial.html)
 
-[Matplotlib User Guide](https://matplotlib.org/stable/users/index.html)
+[Tableau User Guide](https://public.tableau.com/app/learn/how-to-videos)
 
 [GitHub User Guide](https://docs.github.com/es)
